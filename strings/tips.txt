@@ -199,71 +199,70 @@ As an Alien, you are unable to pick up or use any human items or machinery. Inst
 When fighting the Blob, you can hit it with an analyzer to check its chemical effects and the type of blob analyzed. Examining it with a research scanner or medical hud active will also reveal this information.
 As the Blob, you can place your core at any clear, unobserved, spot you can move to after 3 minutes have passed. If you wait too long, you will be automatically placed at a random location. Use this wait time to coordinate with any other overminds.
 As the Blob, keep your core some distance from space, as it is both expensive to expand onto space, easy to be attacked from, and does not count towards your win condition. Emitter platforms built in space are especially dangerous.
-As the Blob, you can randomly repick your reagent type if the crew has adapted and protected themselves against your current one.
-As the Blob, you fight a war of attrition: Take out medbay and fight in chokepoints to prevent continued assaults and coordinated burst damage attacks!
-As the Blob, you can attack anything next to a blob tile, but can only expand in cardinal directions, and diagonal attacks are slightly weaker.
-As the Blob, don't neglect the creation of factories. These create spores that carry your reagent and can chase crewmembers far further than you. Spores can also be rallied to swarm the crew and cause panic, and can even take over corpses to create much more dangerous blob zombies!
-As the Blob, you can produce a Blobbernaut from a factory for 40 resources. Blobbernauts are player-controlled, gradually regenerate near nodes, and apply your chemical when attacking, but die when too far from the blob or if their factory is killed. However, the factory used becomes fragile and stops spawning spores.
-As the Blob, you can expand by clicking, create strong blobs with ctrl-click, rally spores with middle-click, and remove blobs with alt-click. You do not need to have your camera over the tile to do this.
-As the Blob, removing strong blobs, resource nodes, factories, and nodes will give you 4, 15, 25, and 25 resources back, respectively.
-As the Blob, talking will send a message to all other overminds and all Blobbernauts, allowing you to direct attacks and coordinate.
-As a Blobbernaut, you can communicate with overminds and other Blobbernauts via :b.
-As a Blobbernaut, your HUD shows your health and the core health of the overmind that created you.
-As a Revolutionary, you cannot convert a head of staff or someone who has a mindshield implant, such as a security officer or those they implant. Implants can however be surgically removed, and do not carry over with cloning. Take control of medbay to keep control of conversions!
-As a Revolutionary, cargo can be your best friend or your worst nightmare. In the best case scenario you will be able to order a limitless amount of guns and armor, in the worst case scenario security will take control and order a limitless number of mindshield implants to turn your fellow revolutionaries against you.
-As a Revolutionary, your main power comes from who you convert, choose your converts wisely to ensure you win the round.
-As a Changeling, the Extract DNA sting counts for your genome absorb objective, but does not let you respec your powers.
-As a Changeling, you can absorb someone by strangling them and using the Absorb verb; this gives you the ability to rechoose your powers, the DNA of whoever you absorbed, the memory of the absorbed, and some samples of things the absorbed said.
-As a Cultist, do not cause too much chaos before your objective is completed. If the shuttle gets called too soon, you may not have enough time to win.
-As a Cultist, your team starts off very weak, but if necessary can quickly convert everything they have into raw power. Make sure you have the numbers and equipment to support going loud, or the cult will fall flat on its face.
-As a Cultist, the Blood Boil rune will deal massive amounts of brute damage to non-cultists, stamina damage to Ratvarian scum, and some damage to fellow cultists of Nar'Sie nearby, but will create a fire where the rune stands on use.
-As a Cultist, you can create an army of manifested goons using a combination of the Manifest rune, which creates homunculi from ghosts, and the Blood Drain rune, which drains life from anyone standing on any blood drain rune.
-As a Cultist, check the alert in the upper-right of your screen for all the details about your cult's current status and objective.
-You can deconvert Cultists of Nar'Sie by feeding them large amounts of holy water. Unlike revolutionaries, implanting them with mindshield implants won't do it!
-The Chaplain can bless any container with water by hitting it with their bible. Holy water has a myriad of uses against both cults and large amounts of it are a great contributor to success against them.
-The Chaplain's holy weapon will kill clockwork marauders in two hits.
-As a Wizard, you can turn people to stone, then animate the resulting statue with a staff of animation to create an extremely powerful minion, for all of 5 minutes at least.
-As a Wizard, the fireball spell performs very poorly at close range, as it can easily catch you in the blast. It is best used as a form of artillery down long hallways.
-As a Wizard, summoning guns will turn a large portion of the crew against themselves, but will also give everyone anything from a floral somatoray to a pulse rifle. Use at your own risk!
-As a Wizard, the staff of chaos can fire any type of bolts from the magical wands. This can range from bolts of instant death to healing or reviving someone.
-As a Wizard, most spells become unusable if you are not wearing your robe, hat, and sandals.
-As an Abductor, you can select where your victims will be sent on the ship control console.
-As an Abductor Agent, the combat mode vest has much higher resistance to every kind of weapon, and your helmet prevents the AI from tracking you.
-As an Abductor, the baton can cycle between four modes: stun, sleep, cuff and probe.
-As a Revenant, the Chaplain is your worst enemy, as they can damage you massively with the null rod and make large swaths of the station impassable with holy water.
-As a Revenant, your essence is also your health, so revealing yourself in front of humans to harvest the essence of the living is much safer if you've already stocked up on essences from poorly guarded corpses.
-As a Revenant, your Defile ability removes holy water from tiles in a small radius, along with salt, allowing you to reclaim the station from the chaplain if they've been covering the station in holy water. It can also be used to open morgue trays!
-As a Revenant, your Overload Lights ability will only shock humans with lights if the lights are still on after a brief delay.
-As a Revenant, your Malfunction ability in general damages machinery and mechanical objects, possibly even emagging some objects. Experiment!
-As a Revenant, the illness inflicted on humans by Blight can be easily cured by lying down or with holy water, making it best used on targets that have no time to lie down, such as humans in combat.
-As a Swarmer, you can deconstruct more things than you think. Try deconstructing light switches, buttons, air alarms and more. Experiment!
-As a Swarmer, you can teleport fellow swarmers away if you think they are in danger.
-As a Morph, you can talk while disguised, but your words have a chance of being slurred, giving you away!
-As a Drone, you can ping other drones to alert them of areas in the station in need of repair.
-As a Ghost, you can see the inside of a container on the ground by clicking on it.
-As a Ghost, you can double click on just about anything to follow it. Or just warp around!
-As a Devil, you gain power for every three souls you control, however you also become more obvious.
-As a Devil, as long as you control at least one other soul, you will automatically resurrect, as long as a banishment ritual is not performed.
-At which time a Devil's nameth is spake on the tongue of man, the Devil may appeareth. 
-As a Security Officer, remember that correlation does not equal causation. Someone may have just been at the wrong place at the wrong time!
-As a Security Officer, remember that you can attach a sec-lite to your taser or your helmet!
-You can swap floor tiles by holding a crowbar in one hand and a stack of tiles in the other.
-When hacking doors, cutting and mending a "test light wire" will restore power to the door.
-When crafting most items, you can either manually combine parts or use the crafting menu.
-Suit storage units not only remove blood and dirt from clothing, but also radiation!
-Remote devices will work when used through cameras. For example: Bluespace RPEDs and door remotes.
-You can light a cigar on a supermatter crystal.
-Walking negates all wallstuns. Walk to avoid flashes, slipping on water, etc. Walking also does not trigger motion detector flashes!
-Cloners require 30 units of synthflesh per clone. When upgraded to tier 4 parts, these cloners can clone one person much cheaper!
-You can perform self-surgery for amputation, tend wounds, implanting and others. It only has 20% success rate though per step, bumping hot to 40% if there's a mirror in the same room.
-When Experimental Surgery is unlocked, you can build an Autodoc. This allows you to automatically add any implant in seconds.
-Fun fact: reading this (https://beestation13.com/rules) may lead to an increase in your chances on not being banned. Seriously. Read it.
-You can whisper by putting # before your message. You can also whisper in critical, however it may kill you depending on how hurt you are.
-Fore = north, aft = south, starboard = east and port = west.
-If you use a Cup Ramen on a sink twice, it becomes warm.
-Death is normal. Chances are you'll get cloned, anyways.
-Emping the AI has a chance to call the emergency shuttle.
-Beating revolutionaries over the head has a chance to deconvert them.
-You can examine someone to tell if their red eyes are natural or cultist.
-You can put holy water in darts to make them more effective against cultists. Or use the shotgun, cause it doesn't miss.
-Don't know what a word means? https://wiki.beestation13.com/view/Terminology
+Jako Grzyb możesz wybrać nowy typ Reagentu jeśli załoga uodporniła się na twój poprzedni.
+Jako Grzyb twoim zadaniem jest zabić załogę przez ostateczne jej osłabienie i zablokowanie jej dostępu do zasobów, zajmij Klinikę oraz strategiczne punkty na stacji aby uniemożliwic załodze prowadzenie skoordynowanych ataków.
+Grzyb może atakować wszystko 1 płytkę od siebie w każdym kierunku, może on się rozwijać tylko w jednym z 4 głównych kierunku, ataki po skosie są nieznacząco słabsze.
+Będąc Grzybem nie zapomniaj o tworzeniu fabryk! Tworzą one zarodniki które mogą gonić załogę, siać panikę a nawet tworzyć potężne Grzybne Zombie!
+Jako Grzyb możesz produkować Grzybonautów w fabryce w zamian za 40 zasobów. Grzybonauci są kontrolowani przez graczy, regenerują się blisko składów zasobów oraz aplikują twój składnik chemiczny swoim ofiarom podczas ataku, lecz umierają gdy znajdują się za daleko od Grzyba gdy ich fabryka zostanie zniszczona. Zużyta fabryka staje się bardzo podatna na obrażenia oraz produkuje zarodniki.
+As the Grzyb, you can expand by clicking, create strong blobs with ctrl-click, rally spores with middle-click, and remove blobs with alt-click. You do not need to have your camera over the tile to do this.
+Usuwanie silnych Blobów, zasobów, fabryk oraz węzłów da ci odpowiednio 4,15 , 25 i 25 zasobów spowrotem.
+Gadanie jako Grzyb wysyła wiadomość do wszystkich innych Grzybów oraz Grzybonautów, co pozwala wam koordynować ataki oraz tym samym zwiększyć swoją szansę na zwycięstwo.
+Jako Grzybonauta możesz komunikować się z innymi Grzybonautami oraz Grzybami przez :b.
+HUD Grzybonauty pokazuje mu jego zdrowie oraz zdrowie jego stwórcy.
+Rewolucjoniści nie mogą konwertować Szefów Departamentów oraz osób które mają wszczepiony Implant Lojalnościowy, takich jak na przykład oficerowie ochrony lub ci których zaimplantowali. Implanty mogą za to byc chirurgicznie usunięte oraz nie przenoszą się na sklonowane ciała. Zajmij kontrolę nad Kliniką a zajmiesz kontrole nad ludźmi.
+Jako Rewolucjonista Magazynierzy mogą być zarówno twoimi najlepszymi przyjaciółmi jak i najgorszymi wrogami. W najlepszym razie pozwolą ci zamówic nieogarniczone ilości uzbrojenia, a w najgorszym Ochrona przejmie kontrolę i zamówi niezliczone ilości Implantów Lojanościowych, zdekonwertuje twoich kolegów Rewolucjonistów oraz obróci ich przeciwko tobie.
+Jako Rewolucjonista, Twoja  siła pochodzi głownie od tego, kogo nawracasz, wybierz swoich konwertytów mądrze, aby zapewnić sobie zwycięstwo.
+Gdy użyjesz umiejętności wydobywania DNA z ofiary, to pozwala ci to wypełnić zadanie ale nie pozwala ci używać twoich mocy.
+Jako Zmiennokształtny możesz zabsorbować kogoś dusząc go i używając odpowiedniej umiejętnośći. Pozwoli ci to na dobranie swoich mocy na nowo a także daje ci DNA osoby w którą się zmieniłeś, jej wspomnienia oraz przykłady tego co ta osoba mówiła.
+Będąc Kultystą nie rób za dużego rabanu zanim wykonasz swoje zadanie. Jeśli statek ewakuacyjny zostanie wezwany za szybko może ci zostać niewystarczająca ilość czasu by zwyciężyć.
+Kultyści zaczynają jako cieniasy, ale mogą szybko rosnąć w siłę konwertując wszystko na swojej drodzę w moc. Pamiętaj aby mieć wystarczającą ilość zwolenników jako kultysta zanim zaczniesz robić rozpierdziel na stacji, inaczej jest duża szansa że kult upadnie.
+Jako Kultysta, możesz użyć Runy Gotowania Krwi aby zadać duże obrażenia nie-kultystom, zmniejszyć wytrzymałość Ratwaryjskich ścierw. Runa wytworzy ogień w miejscu w którym została użyta.
+Kultyści mogą stworzyć armię upiorów wykorzystując "Runę Manifestacji", która zamienia duchy w zarodki. Mogą również wykorzystać Runę Upuszcenia Krwi aby wyssać energię życiową z ofiar stojących na jakiejkolwiek z nich.
+Jako Kultysta sprawdzaj ikonę w prawym górnym rogu ekranu aby otrzymać wszystkie szczegóły o twojej misji oraz statusie twojego kultu.
+Można zdekonwersować kultystów z Nar'Sie, wlewając im do gardła  dużą ilość wody święconej. W przeciwieństwie do rewolucjonistów, wszczepienie im implantów lojalnościowych nie będzie mogło ich odmienić!
+Kapelan może pobłogosławić każdą skrzynkę uderzając w nią biblią. Wodą święcona ma ogromną liczbę zastosowań przeciw Kultom, a duże jej ilośći często mogą przeważyć szalę zwycięstwa na stronę stacji.
+Święta broń Kapelana zabija członków Kultu Zegarowego w dwóch trafieniach.
+Będąc Czarodziejem możesz zamieniać ludzi w kamień, a później ożywić ich zwłoki "Róźdzką Ożywiania" w efekcie tworząc potęrznego sługę na czas 5 minut.
+Zaklęcie kuli ognia działa bardzo słabo z bliska, ponieważ może łatwo złapać cię w wybuchu. Najlepiej używać go jako formy artylerii w długich korytarzach.
+Przywoływanie broni jako Czarodziej obróci dużą część załogi przeciwko tobie, ale także da każdemu coś od somatoraju kwiatowego do karabinu impulsowego. Używaj na własne ryzyko!
+Gdy jesteś czarodziejem, to pamiętaj iż laska chaosu może wystrzelić z magicznych różdżek dowolny rodzaj magicznych bolców. Mogą one powodować natychmiastową smierć lub na przykład wskrzeszać.
+Jako Czarodziej, większość zaklęć staje się bezużyteczna, jeśli nie masz na sobie szat, kapelusza i sandałów.
+Jako Porywacz, możesz wybrać, gdzie twoje ofiary zostaną wysłane.
+Kamizelka Porywacza w trybie bojowym ma znacznie większą odporność na każdy rodzaj broni, a twój hełm uniemożliwia śledzenie cię przez SI.
+Pałka Porywacza może zmieniać się pomiędzy czterema trybami: ogłuszania, uśpienia, zakucia w kajdanki i sondy.
+Kapelan jest największym wrogiem Opętanych, ponieważ może on wyrządzić im ogromne szkody i sprawić, że duży obszar stacji będzie dla nich nieprzejezdny przez wodę święconą.
+Jako Opętany, twoja esencja jest również twoim zdrowiem, więc ujawnienie się przed ludźmi, aby zebrać esencję życia jest znacznie bezpieczniejsze, jeśli już zaopatrzyłeś się w esencje ze słabo strzeżonych zwłok.
+Zdolność Opętanego "Przeciążenie Świateł" będzie ogłuszać ludzi ze światłami tylko wtedy, gdy światła są nadal włączone, oraz bardzo krótką chwilę po ich wyłączeniu.
+Jako Opętany, masz zdolność pozwalającą ci na uszkadzanie maszyn a nawet emaginowanie niektórch obiektów.
+Jako Opętany, choroba zadawana ludziom przez Zarazę może być łatwo wyleczona przez położenie się w pozycji leżącej lub przy użyciu wody święconej, co sprawia, że najlepiej używać jej na cele, które nie mają czasu na położenie się, takie jak ludzie w walce.
+Jako Robal, możesz zdekonstruować więcej rzeczy, niż ci się wydaje. Spróbuj zdekonstruować włączniki światła, przyciski, alarmy powietrzne itp.
+Jako Robal, możesz teleportować kolegów z roju, jeśli uważasz, że są w niebezpieczeństwie.
+Możesz mówić jako Zmiennokształtny, lecz jest szansa że twoje słowa zostaną zamazane i spalą twoją przykrywkę.
+Jako Dron, możesz pingować inne drony, aby ostrzec je o miejscach na stacji wymagających naprawy.
+Jako Duch, możesz zobaczyć wnętrze skrzynki na ziemi, klikając na nią.
+Jako Duch, możesz kliknąć dwukrotnie na cokolwiek, aby je śledzić, lub się do niego przyczepić!
+Jako diabeł zdobywasz więcej mocy co 3 kontrolowane dusze, ale również stajesz się bardziej wykrywalny.
+Jako diabeł, dopóki kontrolujesz przynajmniej jedną inną duszę, zostaniesz automatycznie ożywiony, dopóki nie zostanie wykonany rytuał wypędzenia.
+Gdy człowiek wypowie imię diabła, może on się on pojawić.
+Pamiętaj żeby jako Oficer Ochrony nie oskarżać nikogo bez dowodów, to że ktoś był w złym miejscu i w złym czasie nie znaczy że jest winny!
+Jako Oficer Ochrony możesz zamontować latarkę do swojego hełmu oraz tasera.
+Możesz wymieniac płytki trzymając w jednej ręce łom a w drugiej stos płytek.
+Podczas włamywania się do drzwi, przecięcie i naprawienie "testowego przewodu świetlnego" przywróci zasilanie drzwi.
+Podczas wytwarzania większości przedmiotów, masz wybór by manualnie je ze sobą łączyć lub użyć menu.
+Jednostki przechowujące kombineznony nie tylko je czyszczą, ale również usuwają z nich promieniowanie.
+Urządzenia zdalne wciąż będą funkcjonować gdy będą podłączone do kamer.
+Możesz odpalić cygaro używająć kryształów supermaterii.
+Chodząc unikasz wszystkich naściennych urządzeń ogłuszających, a także nie ślizgasz się na wodzie.
+Klonery potrzebują 30 jednostek syntetycznego mięsa na każdego klona. Kiedy jego części zostaną ulepszone do 4 poziomu będzie on mógł sklonować jedną osobę za darmo!
+Możesz sam imputować własne kończyny, wyleczyć swoje rany oraz się zaimplantować, lecz masz tylko 20% szans na sukces. Twoje szanse rosną do 40% jeśli w pokoju jest lustro.
+Kiedy Eksperymentalne Operowanie jest włączone możesz zbudować Robodoktora. Pozwala ci to odrazu instalować każdy typ im
+Przeczytanie zasad serwera może zacznąco zredukować twoje szanse na dostanie bana. (https://beestation13.com/rules) 
+Możesz szeptać jeśli wstawisz # przed swoją wiadomością. Możesz również szeptać gdy znajdujez się w stanie kytycznym lecz może cię to zabić.
+Fore = Północ, aft = Południe, Starburta = Wschod and port = Zachód.
+Włóż zupkę chińską do zlewu dwa razy aby ją podgrzać.
+Śmierć to tutaj codzienność, ale są duże szansę że zostaniesz sklonowany, zmieniony w cyborga lub odratowany przez chirurga.
+Użycie EMP na Sztucznej Inteligencji ma szansę na wezwanie statku ewakuacyjnego.
+Bicie rewolucjonistów po głowie ma szansę na ich dekonwersję.
+Czerwony kolor oczu może wskazywać na kultyzm, zbadaj kogoś by to sprawdzić.
+Możesz wlać wodę święconą do rzutek by zwiększyć ich efektywność przeciw kultystom, lub użyć strzelby jeżeli słabo ci idzie celowanie.
+Nie masz pojęcia co oznacza jakieś słowo? Sprawdź https://wiki.beestation13.com/view/Terminology
